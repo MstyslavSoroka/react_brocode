@@ -1,0 +1,13 @@
+.student {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2em;
+    padding: 10px;
+    border: 1px solid #bebebe;
+    display: inline-block;
+    margin: 20px;
+
+}
+
+.student p {
+    margin: 0;
+}
